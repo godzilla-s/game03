@@ -18,7 +18,7 @@ const phasermsg = () => {
 }
 
 export default defineConfig({
-    base: './',
+    base: '/game03/',
     plugins: [
         react(),
         phasermsg()
